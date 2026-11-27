@@ -1,0 +1,20 @@
+{
+  "name": "komal-singh-portfolio",
+  "version": "1.0.0",
+  "description": "Komal Singh — Finance, Payroll & Enterprise Data Operations Specialist Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "finance",
+    "accounting",
+    "payroll",
+    "tallyprime",
+    "advanced-excel",
+    "data-operations"
+  ],
+  "author": "Komal Singh",
+  "license": "MIT"
+}
